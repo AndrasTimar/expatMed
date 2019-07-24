@@ -1,12 +1,8 @@
-{{
-	"root": "dist/"
-}
 {
-  "clean_urls": true
-}
-{
+  "root": "dist/",
+  "clean_urls": true,
   "routes": {
     "/*.html": "index.html"
-  }
-}
+  },
+  "encoding": "ISO-8859-1"
 }
