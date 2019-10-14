@@ -4,5 +4,5 @@
   "routes": {
     "/*.html": "index.html"
   },
-  "encoding": "ISO-8859-1"
+  "encoding": "windows-1252"
 }
